@@ -48,16 +48,6 @@ Verified endpoint logging & alerting in **Wazuh**
 3. **Malicious file execution on Windows client**
    * Endpoint alerts in Wazuh
 
-*(Insert screenshots of Wazuh/Splunk dashboards here)*
-
----
-
-## Screenshots
-
-* pfSense firewall rule configuration
-* Wazuh dashboard with alerts
-* Attack demonstration (Kali scanning Windows & Ubuntu machine)
-
 ---
 
 ## Tools & Technologies
