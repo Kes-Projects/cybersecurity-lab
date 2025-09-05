@@ -13,9 +13,9 @@ The goal is to simulate **real-world enterprise security monitoring** by using p
 
 * **pfSense** → Firewall & Router with 3 LANs
 
-  * Server LAN → `10.10.20.0/24`
-  * Client LAN → `10.10.30.0/24`
-  * Management LAN (Wazuh) → `10.10.40.0/24`
+  * Server LAN → `10.x.x.x/24`
+  * Client LAN → `10.x.x.x/24`
+  * Management LAN (Wazuh) → `10.x.x.x/24`
 
 * **Windows Server 2022** →  Test server with wazuh agent
 * **Windows 11 Client** → Test desktop with wazuh agent
