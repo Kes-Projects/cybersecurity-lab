@@ -14,3 +14,10 @@ I used `smbclient` to enumerate shares and attempt authentication against the ta
 
 
 I used Nmap to perform network reconnaissance, including discovering active hosts, scanning open ports, identifying running services and their versions, and detecting the operating system. Despite these scans, the activity was not detected or flagged by the Wazuh SIEM on the target system.
+
+
+---
+
+## Attacks on Ubuntu Machine
+
+![SSH Attack]<img width="464" height="186" alt="image" src="https://github.com/user-attachments/assets/af5670f5-cce0-4eb3-aee8-f9b4438e7975" />
