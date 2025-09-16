@@ -1,6 +1,6 @@
-#Explanation and images of attacks on **Windows** and **Ubuntu** machines#
+#Explanation and images of attacks on **Windows** and **Ubuntu** machines
 
-##Attacks on Windows Machine##
+##Attacks on Windows Machine
 
 Executed an authorized lab exercise simulating unauthorized access using a brute-force attack on a remote desktop with a password wordlist for detection and logging validation.
 
