@@ -27,10 +27,14 @@ This shows ssh attack from the Kali machine to the Ubuntu Server using fakeuser 
 
 The nikto command shows the target IP, host and the port number from the Kali machine
 
+**NIKTO Attack Screenshot:**
 ![NIKTO ATTACK](https://github.com/user-attachments/assets/ca29f106-fbc5-4767-97e2-eb9f0cd6c063)
 
-The nikto command shows the target IP, host and the port number from the Kali machine
+An SSH attack was performed on the Ubuntu server using the Hydra tool to brute-force passwords from passwords.txt. The command included several options: -t 1 to try one login at a time, -V for verbose mode showing each attempt, -f to stop after finding a valid login, -l to specify the target username, and -P to provide the list of passwords to try.
 
-![NIKTO ATTCK](https://github.com/user-attachments/assets/f23bc87c-85e5-4767-8f69-9288424cd6ac)
+**HYDRA Attack Screenshot:**
+![HYDRA ATTACK](https://github.com/user-attachments/assets/cc273ea1-31dc-478d-b588-4d1cf547be14)
+
+
 
 
