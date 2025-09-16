@@ -20,5 +20,17 @@ I used Nmap to perform network reconnaissance, including discovering active host
 
 ## Attacks on Ubuntu Machine
 
+This shows ssh attack from the Kali machine to the Ubuntu Server using fakeuser as the username on the Ubuntu Server IP
+
 **SSH Attack Screenshot:**
 ![SSH Attack](https://github.com/user-attachments/assets/af5670f5-cce0-4eb3-aee8-f9b4438e7975)
+
+The nikto command shows the target IP, host and the port number from the Kali machine
+
+![NIKTO ATTACK](https://github.com/user-attachments/assets/ca29f106-fbc5-4767-97e2-eb9f0cd6c063)
+
+The nikto command shows the target IP, host and the port number from the Kali machine
+
+![NIKTO ATTCK](https://github.com/user-attachments/assets/f23bc87c-85e5-4767-8f69-9288424cd6ac)
+
+
