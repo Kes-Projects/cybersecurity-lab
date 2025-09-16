@@ -20,4 +20,5 @@ I used Nmap to perform network reconnaissance, including discovering active host
 
 ## Attacks on Ubuntu Machine
 
+**SSH Attack Screenshot:**
 ![SSH Attack](https://github.com/user-attachments/assets/af5670f5-cce0-4eb3-aee8-f9b4438e7975)
