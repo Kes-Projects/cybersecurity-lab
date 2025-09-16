@@ -12,3 +12,5 @@ I used `smbclient` to enumerate shares and attempt authentication against the ta
 **SMB Enumeration Screenshot:**  
 ![SMB Enumeration](https://github.com/user-attachments/assets/54c3a379-f1de-46c6-9c7f-482f9ad03c46)
 
+
+I used Nmap to perform network reconnaissance, including discovering active hosts, scanning open ports, identifying running services and their versions, and detecting the operating system. Despite these scans, the activity was not detected or flagged by the Wazuh SIEM on the target system.
